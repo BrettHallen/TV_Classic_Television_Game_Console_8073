@@ -10,6 +10,10 @@ The information I've been able to find:
 ## Videos
 - [Part 1](https://youtu.be/Qsza5HzzrpA)
 
+## Images
+Photos of the internals of my unit.
+
+
 ## Main Motherboard
 - Marked as "DR-8073A-06V-2.8"
 - Has ROM type JS28F256
@@ -18,4 +22,7 @@ The information I've been able to find:
 - Powered by 3xAAA or Micro-USB (5V)
 - Has 36 test pads labelled J1 to J36
 - Additional test pads: GND, VCC3V, GND1, VCC5V, A, EN
+
+![Main PCB](/Images/DR-8073_main_motherboard1.png)
+
 
