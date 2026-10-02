@@ -13,6 +13,8 @@ The information I've been able to find:
 ## Images
 Photos of the internals of my unit.
 
+## [Manual](/Manual)
+My machine didn't come with a manual but there is one available for the similar "Orb Retro Mini TV Handheld Console".
 
 ## Main Motherboard
 - Marked as "DR-8073A-06V-2.8"
