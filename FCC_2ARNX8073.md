@@ -1,5 +1,8 @@
 # FCC Certification: 2ARNX8073 ("Mini TV Consoles")
 
+Note!<br>
+Researched using Claude AI - references to "my" are Claude's work<br>
+
 FCC ID **2ARNX8073** covers this console. The test report gives the hardware version as
 **DR-8073A-06V-2.8**, the marking on the main PCB of the unit documented in this repository.
 
