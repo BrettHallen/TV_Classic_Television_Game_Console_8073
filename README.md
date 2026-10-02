@@ -3,9 +3,12 @@ An interesting form-factor for the retro-console category: a CRT-style televisio
 
 The information I've been able to find:
 - Box and PCBs are marked with item/model 8073
-- A similar example has FCC ID 2ARNX8073 (thanks Michael!)
+- A similar example has [FCC ID 2ARNX8073](/FCC_2ARNX8073.md) (thanks Michael!)
 
 ![Box logo](/TV_Classic_Television_Game_Console_Box_Title_small.png)
+
+## Videos
+- [Part 1](https://youtu.be/Qsza5HzzrpA)
 
 ## Main Motherboard
 - Marked as "DR-8073A-06V-2.8"
