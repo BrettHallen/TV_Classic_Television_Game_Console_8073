@@ -10,7 +10,7 @@ The information I've been able to find:
 ## Videos
 - [Part 1](https://youtu.be/Qsza5HzzrpA)
 
-## Images
+## [Images](/Images)
 Photos of the internals of my unit.
 
 ## [Manual](/Manual)
